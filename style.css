@@ -1,0 +1,89 @@
+.nav {
+    width: 100vw;
+    height: auto;
+    border-bottom: 2px solid rgb(184, 177, 177);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    padding-left: 100px;
+}
+
+.already {
+    padding-right: 150px;
+    line-height: 0;
+}
+
+.blue {
+    color: blue;
+}
+
+.contenedor {
+    padding: 100px;   
+}
+
+.google {
+    display: inline-block;
+    background-color: rgb(29, 159, 219);
+    color: rgb(255, 255, 255);
+    height: 35px;
+    width: 160px;
+    border: 0;
+    border-radius: 5px;
+    text-align: center;  
+    
+}
+
+.facebook {
+        display: inline-block;
+        background-color: rgb(69, 52, 214);
+        color: rgb(255, 255, 255);
+        width: 200px;
+        height: 35px;
+        border: 0;
+        border-radius: 5px;   
+}
+
+.texto2 {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    color: grey;
+}
+
+.texto4 {
+    padding-top: 20px;
+}
+
+.acount {
+    background-color: white;
+    color: grey;
+    border-radius: 40px;
+    height: 50px;
+    width: 250px;
+    border-color: grey;
+    border-style: dashed;
+    border-width: 3px;
+}
+
+.footer {
+    width: 100vw;
+    height: auto;
+    border-top: 2px solid rgb(184, 177, 177);
+    padding: 30px;
+
+}
+
+.footer div {
+    display: inline-block;
+    margin-right: 50px;
+  }
+
+
+  
